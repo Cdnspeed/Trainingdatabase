@@ -3,6 +3,13 @@ Context
 
 You are working inside an existing repo folder named Training database interface. Implement a Windows desktop training compliance application per the specification below. Follow the step-by-step plan and keep each stage buildable.
 
+Local setup (Phase 1)
+- Prerequisites: .NET 8 SDK, SQL Server Express.
+- Connection string: update `src/TrainingDatabaseInterface.App/appsettings.json` if your SQL Server Express instance is not `localhost\SQLEXPRESS`.
+- Migrations: `dotnet ef migrations add InitialCreate --project src/TrainingDatabaseInterface.Data --startup-project src/TrainingDatabaseInterface.App`
+- Apply DB: `dotnet ef database update --project src/TrainingDatabaseInterface.Data --startup-project src/TrainingDatabaseInterface.App`
+- Default admin credentials: `admin` / `Admin!123`
+
 Product Summary (what to build)
 
 Build a .NET 8 WPF Windows desktop app that connects to a shared SQL Server Express database. The app manages employee training compliance using a Skills Matrix (Courses × Positions) with requirement codes M (Mandatory) and D (Designated). It provides role-based access (Admin/Trainer/Manager/Employee), KPI dashboards with filtering, reporting exports, a compliance pivot matrix (Employees × Courses grouped by domain), and a local evidence document store at %LOCALAPPDATA%\TrainingTracker\docs\ (provider-based so SharePoint can be added later).
@@ -49,6 +56,10 @@ how to configure connection string
 how to run migrations/initialize DB
 
 how to build Release exe
+
+Default admin credentials (Phase 1 seed):
+- Username: admin
+- Password: Admin!123
 
 Deliverable: Solution builds successfully with an empty shell window.
 
