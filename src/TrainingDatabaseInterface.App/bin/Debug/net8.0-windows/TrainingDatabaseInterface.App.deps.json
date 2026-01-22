@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TrainingDatabaseInterface.App/1.0.0": {
+        "dependencies": {
+          "TrainingDatabaseInterface.Core": "1.0.0",
+          "TrainingDatabaseInterface.Data": "1.0.0"
+        },
+        "runtime": {
+          "TrainingDatabaseInterface.App.dll": {}
+        }
+      },
+      "TrainingDatabaseInterface.Core/1.0.0": {
+        "runtime": {
+          "TrainingDatabaseInterface.Core.dll": {}
+        }
+      },
+      "TrainingDatabaseInterface.Data/1.0.0": {
+        "dependencies": {
+          "TrainingDatabaseInterface.Core": "1.0.0"
+        },
+        "runtime": {
+          "TrainingDatabaseInterface.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrainingDatabaseInterface.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TrainingDatabaseInterface.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TrainingDatabaseInterface.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

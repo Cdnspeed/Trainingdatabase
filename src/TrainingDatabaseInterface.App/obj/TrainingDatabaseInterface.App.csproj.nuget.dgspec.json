@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.App\\TrainingDatabaseInterface.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.App\\TrainingDatabaseInterface.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.App\\TrainingDatabaseInterface.App.csproj",
+        "projectName": "TrainingDatabaseInterface.App",
+        "projectPath": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.App\\TrainingDatabaseInterface.App.csproj",
+        "packagesPath": "C:\\Users\\minim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\minim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Core\\TrainingDatabaseInterface.Core.csproj": {
+                "projectPath": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Core\\TrainingDatabaseInterface.Core.csproj"
+              },
+              "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Data\\TrainingDatabaseInterface.Data.csproj": {
+                "projectPath": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Data\\TrainingDatabaseInterface.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.319/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Core\\TrainingDatabaseInterface.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Core\\TrainingDatabaseInterface.Core.csproj",
+        "projectName": "TrainingDatabaseInterface.Core",
+        "projectPath": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Core\\TrainingDatabaseInterface.Core.csproj",
+        "packagesPath": "C:\\Users\\minim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\minim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.319/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Data\\TrainingDatabaseInterface.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Data\\TrainingDatabaseInterface.Data.csproj",
+        "projectName": "TrainingDatabaseInterface.Data",
+        "projectPath": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Data\\TrainingDatabaseInterface.Data.csproj",
+        "packagesPath": "C:\\Users\\minim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\minim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Core\\TrainingDatabaseInterface.Core.csproj": {
+                "projectPath": "C:\\Users\\minim\\Documents\\Training Database\\Trainingdatabase\\src\\TrainingDatabaseInterface.Core\\TrainingDatabaseInterface.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.319/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\bin\Debug\net8.0\TrainingDatabaseInterface.Data.deps.json
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\bin\Debug\net8.0\TrainingDatabaseInterface.Data.dll
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\bin\Debug\net8.0\TrainingDatabaseInterface.Data.pdb
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\bin\Debug\net8.0\TrainingDatabaseInterface.Core.dll
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\bin\Debug\net8.0\TrainingDatabaseInterface.Core.pdb
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\TrainingDatabaseInterface.Data.csproj.AssemblyReference.cache
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\TrainingDatabaseInterface.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\TrainingDatabaseInterface.Data.AssemblyInfoInputs.cache
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\TrainingDatabaseInterface.Data.AssemblyInfo.cs
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\TrainingDatabaseInterface.Data.csproj.CoreCompileInputs.cache
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\TrainingDatabaseInterface.Data.sourcelink.json
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\Training.0689B98F.Up2Date
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\TrainingDatabaseInterface.Data.dll
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\refint\TrainingDatabaseInterface.Data.dll
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\TrainingDatabaseInterface.Data.pdb
+C:\Users\minim\Documents\Training Database\Trainingdatabase\src\TrainingDatabaseInterface.Data\obj\Debug\net8.0\ref\TrainingDatabaseInterface.Data.dll
